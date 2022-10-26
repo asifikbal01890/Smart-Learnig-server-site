@@ -1,50 +1,44 @@
 [
     {
       "_id": "63589fa0ecba94dee0eb1b0c",
-      "picture": "../image/HTML.jpg",
-      "age": 29,
-      "Time": "60s",
-      "name": "Ramona Garza",
-      "image": "image"
+      "id": "01",
+      "title": "At its heart, HTML is a language made up of elements, which can be applied to pieces of text to give them different meaning in a document (Is it a paragraph? Is it a bulleted list? Is it part of a table?), structure a document into logical sections (Does it have a header? Three columns of content? A navigation menu?), and embed content such as images and videos into a page. This module will introduce the first two of these and introduce fundamental concepts and syntax you need to know to understand HTML.",
+      "name": "Html Course",
+      "image": "../image/HTML.jpg"
     },
     {
       "_id": "63589fa0abd1657294e4e070",
-      "picture": "../image/Css.jpg",
-      "age": 30,
-      "Time": "60s",
-      "name": "Emily Gates",
-      "image": "image"
+      "id": "02",
+      "title": "CSS (Cascading Style Sheets) is used to style and layout web pages — for example, to alter the font, color, size, and spacing of your content, split it into multiple columns, or add animations and other decorative features",
+      "name": "CSS Course",
+      "image": "../image/Css.jpg"
     },
     {
       "_id": "63589fa0b4c00de38727d263",
-      "picture": "../image/Javascript.jpg",
-      "age": 22,
-      "Time": "60s",
-      "name": "Little Odonnell",
-      "image": "image"
+      "id": "03",
+      "title": "JavaScript is a scripting language that enables you to create dynamically updating content, control multimedia, animate images, and pretty much everything else. (Okay, not everything, but it is amazing what you can achieve with a few lines of JavaScript code.)",
+      "name": "JavaScript Course",
+      "image": "../image/Javascript.jpg"
     },
     {
       "_id": "63589fa0943524aedeeab370",
-      "picture": "../image/Python.jpg",
-      "age": 36,
-      "Time": "60s",
-      "name": "Alice Hamilton",
-      "image": "image"
+      "id": "04",
+      "title": "Python is a computer programming language often used to build websites and software, automate tasks, and conduct data analysis. Python is a general-purpose language, meaning it can be used to create a variety of different programs and isn't specialized for any specific problems.",
+      "name": "Python Course",
+      "image": "../image/Python.jpg"
     },
     {
       "_id": "63589fa01312100d3ad9d0b4",
-      "picture": "../image/best-react-courses-scaled.jpg",
-      "age": 25,
-      "Time": "60s",
-      "name": "Hughes Hampton",
-      "image": "image"
+      "id": "05",
+      "title": "React is a JavaScript-based UI development library. Facebook and an open-source developer community run it. Although React is a library rather than a language, it is widely used in web development. The library first appeared in May 2013 and is now one of the most commonly used frontend libraries for web development",
+      "name": "React.js Course",
+      "image": "../image/best-react-courses-scaled.jpg"
     },
     {
       "_id": "63589fa0f427532db7f64682",
-      "picture": "../image/Node.jpg",
-      "age": 24,
-      "Time": "60s",
-      "name": "Arline Spence",
-      "image": "image"
+      "id": "06",
+      "title": "Node. js (Node) is an open source development platform for executing JavaScript code server-side. Node is useful for developing applications that require a persistent connection from the browser to the server and is often used for real-time applications such as chat, news feeds and web push notifications.",
+      "name": "Node.js Course",
+      "image": "../image/Node.jpg"
     }
   ]
